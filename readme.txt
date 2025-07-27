@@ -1,4 +1,4 @@
-welcome to my computer
+welcome to the git for beginners my computer
 
 
 
