@@ -1,6 +1,6 @@
 welcome to my computer
 
 
-abbsh: Thomas
+abbsh: Thomas Bigwin
 
 Twitter: @BigMarvin
